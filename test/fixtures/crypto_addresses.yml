@@ -2,10 +2,10 @@
 
 one:
   user: one
-  address_type: MyString
   address: MyString
+  address_purpose: MyString
 
 two:
   user: two
-  address_type: MyString
   address: MyString
+  address_purpose: MyString
